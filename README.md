@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MANI97a
 - 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning  SQL database
-- 💞️ I’m looking to collaborate on SQL Projects 
+- 🌱 I’m currently learning  SQL database,Tableau and R programming
+- 💞️ I’m looking to collaborate on SQL and R project
 - 📫 How to reach me mani97kandan97@gmail.com
 
 <!---
